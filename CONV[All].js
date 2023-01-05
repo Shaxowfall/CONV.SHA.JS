@@ -1,4 +1,4 @@
-// ACONV+DECONV+MERGE || An All In One Function That Contains: ACONV(Converts Characters Into Their CharCodes), DECONV(Reverts ACONV's Converted Outputs (only useful with variant: 1)), MERGE(Reverts CharCodes to ASCII/Alpha) ||
+// CONV || An All In One Function That Contains: ACONV(Converts Characters Into Their CharCodes), DECONV(Reverts ACONV's Converted Outputs (only useful with variant: 1)), MERGE(Reverts CharCodes to ASCII/Alpha) ||
 // Version: 1.0 || Stage: Testing || Created By: Shaxowfall ||
 /*
 Function Information
